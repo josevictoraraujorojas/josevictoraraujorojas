@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas habilidade
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -32,7 +32,7 @@
 <br/>  
 
 
-## Connect with me  
+## Minhas redes sociais  
 <div align="center">
 <a href="https://linkedin.com/in/jose-victor-rojas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -49,7 +49,7 @@
 <br/>  
 
 
-## Github Stats  
+## Status do GitHub 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=josevictoraraujorojas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
