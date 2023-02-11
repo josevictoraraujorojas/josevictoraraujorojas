@@ -12,7 +12,7 @@
 <br/>  
 
 
-## Minhas habilidade
+## Minhas habilidades
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
